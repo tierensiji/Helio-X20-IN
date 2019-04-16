@@ -1,0 +1,14 @@
+/etc/perfservapplist.txt
+/ect/perfservscntbl.txt
+/proc/ppm文件夹打包
+/proc/gpufreq文件夹打包
+/proc/cpufreq文件夹打包
+/proc/hps文件夹打包
+/proc/mali文件夹打包
+/sys/module/ged/parameters文件夹打包
+/sys/devices/system/cpu文件夹打包
+/etc/.tp文件夹打包，/vendor/etc/.tp文件夹打包，
+/sys/block截图
+/system/build.prop用MT管理打开，搜索perf，截图，搜索perfservice，截图。
+
+以上信息全部打包后放在一个总的包里给我，谢谢！
